@@ -1,15 +1,3 @@
-Nothing Left Behind — website files
-
-Upload everything in this folder to your web host's public folder
-(often called public_html or www). Keep the folders as they are.
-
-Pages:
-  /            home
-  /services
-  /pricing
-  /contact
-
-The contact form opens the visitor's email app, addressed to
-hello@nothingleftbehind.co.uk.
-
-Works on ordinary hosting. You do not need Node.js.
+Nothing Left Behind website files.
+Upload the contents of this folder into public_html.
+Contact email: hello@nlbclearance.com
